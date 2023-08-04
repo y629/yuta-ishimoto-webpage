@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Academic # Website name
+title: Yuta Ishimoto # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
@@ -14,6 +14,23 @@ defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+# languages:
+#   en:
+#     contentDir: content/en
+#     disabled: false
+#     languageCode: en
+#     languageDirection: ltr
+#     languageName: English
+#     title: Yuta Ishimoto
+#     weight: 1
+#   ja:
+#     contentDir: content/ja
+#     disabled: false
+#     languageCode: en
+#     languageDirection: ltr
+#     languageName: Japanese
+#     title: 石本 優太
+#     weight: 2
 
 ############################
 ## MODULES
