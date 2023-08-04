@@ -5,13 +5,15 @@
 # Default language
 en:
   languageCode: en-us
+  title: Yuta Ishimoto
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   # contentDir: content/en
 
 # Uncomment the lines below to configure your website in a second language.
-# ja:
-#  languageCode: ja
-#  contentDir: content/
+ja:
+  languageCode: ja
+  contentDir: content/ja
+  title: 石本 優太
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...
