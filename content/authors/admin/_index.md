@@ -22,13 +22,13 @@ organizations:
     url: https://www.kyushu-u.ac.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Software Engineering for AI (MLSE, SE4AI).
+bio: My research interests include Software Engineering for AI (SE4AI, MLSE).
 
 # Interests to show in About widget
 interests:
-  - Software Engineering
-  - SE4AI, MLSE
-  - DNN Repair
+  - Software Engineering for AI
+  - Automatic Fault localization/Repair for DNNs
+  - Quantum Software Engineering
 
 # Education to show in About widget
 education:

@@ -118,19 +118,18 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
-      count: 3
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
-      view: citation
+      view: compact
   # - block: collection
   #   id: talks
   #   content:
