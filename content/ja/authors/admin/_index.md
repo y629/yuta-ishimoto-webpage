@@ -27,7 +27,7 @@ bio: My research interests include Software Engineering for AI (SE4AI, MLSE).
 # Interests to show in About widget
 interests:
   - 機械学習のためのソフトウェア工学
-  - DNNモデルに対するバグの原因特定・修正
+  - 深層学習 (DNN) モデルに対するバグの原因特定・修正
   - 量子ソフトウェア工学
 
 # Education to show in About widget
@@ -39,9 +39,9 @@ education:
     - course: システム情報科学府 情報理工学専攻 修士課程
       institution: 九州大学
       year: 2021 - 2023
-    - course: 工学部 電気情報工学科 学士課程
+    - course: 工学部 電気情報工学科
       institution: 九州大学
-      year: 2019 - 2021    
+      year: 2019 - 2021
     - course: 電子情報工学科
       institution: 福井工業高等専門学校
       year: 2014 - 2019
@@ -82,5 +82,8 @@ highlight_name: true
 ---
 
 九州大学大学院 システム情報科学府 情報理工学専攻 博士課程1年．
-学部4年より <a href="https://posl.ait.kyushu-u.ac.jp/~ubayashi/index_en.html">鵜林 尚靖</a> 教授のもとで機械学習システムに対するソフトウェア工学の研究に従事．
+
+学部4年より <a href="https://posl.ait.kyushu-u.ac.jp/ja/" target="_blank">九州大学 鵜林・亀井研究室 (POSL)</a> に配属．
+<a href="https://posl.ait.kyushu-u.ac.jp/~ubayashi/index_en.html" target="_blank">鵜林 尚靖</a> 教授のもとで機械学習システムに対するソフトウェア工学の研究に従事．
+これまで，RNNモデルに対する自動的なバグの原因特定の研究や，DNN修正技術による新たなバグ混入を事前に予測する研究を行う．
 <!-- {style="text-align: justify;"} -->

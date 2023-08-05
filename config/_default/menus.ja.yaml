@@ -7,7 +7,7 @@ main:
   - name: ホーム
     url: '#about'
     weight: 10
-  - name: 論文・出版物
+  - name: 国際論文誌・国際会議
     url: '#publications'
     weight: 20
   - name: 連絡先

@@ -126,10 +126,23 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
+  # TODO: add news
+  # - block: markdown
+  #   id: news
+  #   content:
+  #     title: News
+  #     text: |-
+  #       - a
+  #       - b
+  #       - b
+  #   design:
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: '1'
+  #     view: list
   - block: collection
     id: publications
     content:
-      title: 論文・出版物
+      title: 国際論文誌・国際会議
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -140,7 +153,7 @@ sections:
         exclude_featured: false
     design:
       columns: '2'
-      view: compact
+      view: citation
   # - block: collection
   #   id: talks
   #   content:

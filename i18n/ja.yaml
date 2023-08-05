@@ -178,16 +178,16 @@
   translation: 未分類
 
 - id: pub_conf
-  translation: Conference paper
+  translation: 国際会議
 
 - id: pub_journal
-  translation: Journal article
+  translation: 国際論文誌
 
 - id: pub_preprint
-  translation: Preprint
+  translation: プレプリント
 
 - id: pub_report
-  translation: Report
+  translation: 報告
 
 - id: pub_book
   translation: 書籍
