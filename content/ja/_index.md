@@ -11,142 +11,34 @@ sections:
       title: プロフィール
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  # - block: collection
-  #   id: news
-  #   content:
-  #     title: News
-  #     text: 'Check out my recent blog posts below!'
-  #     count: 10
-  #     design:
-  #     # Choose a listing view
-  #     view: compact
-  #     # Choose single or dual column layout
-  #     columns: '1'
-  # - block: accomplishments
-  #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Accomplish&shy;ments'
-  #     subtitle:
-  #     # Date format: https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Accomplishments.
-  #     #   Add/remove as many `item` blocks below as you like.
-  #     #   `title`, `organization`, and `date_start` are the required parameters.
-  #     #   Leave other parameters empty if not required.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - certificate_url: https://www.coursera.org
-  #         date_end: ''
-  #         date_start: '2021-01-25'
-  #         description: ''
-  #         organization: Coursera
-  #         organization_url: https://www.coursera.org
-  #         title: Neural Networks and Deep Learning
-  #         url: ''
-  #       - certificate_url: https://www.edx.org
-  #         date_end: ''
-  #         date_start: '2021-01-01'
-  #         description: Formulated informed blockchain models, hypotheses, and use cases.
-  #         organization: edX
-  #         organization_url: https://www.edx.org
-  #         title: Blockchain Fundamentals
-  #         url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  #       - certificate_url: https://www.datacamp.com
-  #         date_end: '2020-12-21'
-  #         date_start: '2020-07-01'
-  #         description: ''
-  #         organization: DataCamp
-  #         organization_url: https://www.datacamp.com
-  #         title: 'Object-Oriented Programming in R'
-  #         url: ''
-  #   design:
-  #     columns: '2'
-  # - block: collection
-  #   id: posts
-  #   content:
-  #     title: Recent Posts
-  #     subtitle: ''
-  #     text: ''
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 5
-  #     # Filter on criteria
-  #     filters:
-  #       folders:
-  #         - post
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     # Choose how many pages you would like to offset by
-  #     offset: 0
-  #     # Page order: descending (desc) or ascending (asc) date.
-  #     order: desc
-  #   design:
-  #     # Choose a layout view
-  #     view: compact
-  #     columns: '2'
-  # - block: portfolio
-  #   id: projects
-  #   content:
-  #     title: Projects
-  #     filters:
-  #       folders:
-  #         - project
-  #     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  #     default_button_index: 0
-  #     # Filter toolbar (optional).
-  #     # Add or remove as many filters (`filter_button` instances) as you like.
-  #     # To show all items, set `tag` to "*".
-  #     # To filter by a specific tag, set `tag` to an existing tag name.
-  #     # To remove the toolbar, delete the entire `filter_button` block.
-  #     buttons:
-  #       - name: All
-  #         tag: '*'
-  #       - name: Deep Learning
-  #         tag: Deep Learning
-  #       - name: Other
-  #         tag: Demo
-  #   design:
-  #     # Choose how many columns the section has. Valid values: '1' or '2'.
-  #     columns: '1'
-  #     view: showcase
-  #     # For Showcase view, flip alternate rows?
-  #     flip_alt_rows: false
-  # - block: collection
-  #   id: featured
-  #   content:
-  #     title: Featured Publications
-  #     filters:
-  #       folders:
-  #         - publication
-  #       featured_only: true
-  #   design:
-  #     columns: '2'
-  #     view: card
-  # TODO: add news
-  # - block: markdown
-  #   id: news
-  #   content:
-  #     title: News
-  #     text: |-
-  #       - a
-  #       - b
-  #       - b
-  #   design:
-  #     # Choose how many columns the section has. Valid values: '1' or '2'.
-  #     columns: '1'
-  #     view: list
+  
+  - block: markdown
+    id: news
+    content:
+      title: ニュース
+      text: |-
+        - [**2023/07**] MSR Asia Summit 2023 (札幌&定山渓, 北海道で開催) にLocal Arrangement Chair, ポスター発表者として参加．3日間という短期間で研究に取り組むResearchathonにも参加．
+        - [**2023/06**] 国際会議EASE (オウル, フィンランドで開催) に参加し，論文発表．
+        - [**2023/05**] 国際会議ICSEおよび併設会議のCAIN (メルボルン, オーストラリアで開催) に参加．CAINにて論文発表.
+        - [**2023/04**] 国際会議EASE (International Conference on Evaluation and Assessment in Software Engineering) の Journal First track に採択 (論文誌ISTに採択された論文の発表)．
+        - [**2023/03**] SE4AIに関する国際会議CAIN (International Conference on AI Engineering – Software Engineering for AI) に論文採択 ([An Initial Analysis of Repair and Side-effect Prediction for Neural Networks](/ja/publication/ishimoto-2023-initial/))．
+        - [**2023/03**] 修士（工学）取得．
+
+        [以前のニュース >>](/ja/news)
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+      view: list
+
   - block: collection
     id: publications
     content:
-      title: 国際論文誌・国際会議
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: 論文誌・国際会議論文
+      subtitle: 査読付き
+      # text: |-
+      #   # {{% callout note %}}
+      #   # Quickly discover relevant content by [filtering publications](./publication/).
+      #   # {{% /callout %}}
       filters:
         folders:
           - publication
@@ -154,21 +46,34 @@ sections:
     design:
       columns: '2'
       view: citation
-  # - block: collection
-  #   id: talks
+
+  - block: markdown
+    id: awards
+    content:
+      title: 受賞
+      text: |-
+        1. [令和4年度電子情報通信学会ソフトウェアサイエンス研究会研究奨励賞](https://www.ieice.org/iss/ss/award.html), 2023年3月．
+        2. [情報処理学会2021年度コンピュータサイエンス領域奨励賞](https://www.ipsj.or.jp/award/cs-award-2021.html), 2021年6月．
+        3. [第207回ソフトウェア工学研究会 学生研究賞](https://www.sigse.jp/award.html), 2021年3月．
+        4. 情報処理学会北陸支部 平成30年度 優秀学生賞, 2019年3月．
+
+        [研究成果の一覧 >>](/ja/achievements)
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '2'
+      view: list
+
+  # - block: markdown
+  #   id: achievements
   #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
+  #     title: 研究成果
+  #     text: |-
+
   #   design:
-  #     columns: '2'
-  #     view: compact
-  # # - block: tag_cloud
-  # #   content:
-  # #     title: Popular Topics
-  # #   design:
-  # #     columns: '2'
+  #     # Choose how many columns the section has. Valid values: '1' or '2'.
+  #     columns: '1'
+  #     view: list
+
   - block: contact
     id: contact
     content:

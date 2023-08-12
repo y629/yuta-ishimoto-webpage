@@ -7,12 +7,21 @@ main:
   - name: ホーム
     url: '#about'
     weight: 10
-  - name: 国際論文誌・国際会議
-    url: '#publications'
+  - name: ニュース
+    url: '#news'
     weight: 20
+  - name: 論文誌・国際会議論文
+    url: '#publications'
+    weight: 30
+  - name: 研究成果
+    url: '/ja/achievements'
+    weight: 60
   - name: 連絡先
     url: '#contact'
-    weight: 30
+    weight: 90
+  - name: English
+    url: '../en'
+    weight: 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

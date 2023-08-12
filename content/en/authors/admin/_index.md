@@ -27,7 +27,7 @@ bio: My research interests include Software Engineering for AI (SE4AI, MLSE).
 # Interests to show in About widget
 interests:
   - Software Engineering for AI
-  - Automatic Fault localization/Repair for DNNs
+  - Fault localization and Repair for DNNs
   - Quantum Software Engineering
 
 # Education to show in About widget
