@@ -30,7 +30,7 @@ view: 1
 1. **Yuta Ishimoto**, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, “An Analysis and Prediction of Repair and Break for Neural Network Repair Techniques,” MSR Asia Summit 2023, 2023年7月. (ポスター発表)
 1. Jianhong Wang, **Yuta Ishimoto**, Masanari Kondo, Yasutaka Kamei, Naoyasu Ubayashi, “Towards Robust Object Detection Models by Metamorphic Testing,” 第213回ソフトウェア工学研究発表会, 2023-SE-213(16), pp.1-8, 2023年3月. <span style="color: red; "><i class="fa-solid fa-trophy"></i>学生研究賞</span>
 1. 稲田 司, **石本 優太**, 近藤 将成, 亀井 靖高, 鵜林 尚靖, “Dockerfileの開発を支援するインタラクティブツールの提案,” 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.122, no.432(SS), pp.43-48, 2023年3月.
-2. **石本 優太**, 近藤 将成, 鵜林 尚靖, 亀井靖高, “確率的オートマトンとn-gramに基づくRNNに対するバグ限局,” 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.122, no.138(SS), pp.55-60, 2022年7月. 
+2. **石本 優太**, 近藤 将成, 鵜林 尚靖, 亀井靖高, “確率的オートマトンとn-gramに基づくRNNに対するバグ限局,” 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.122, no.138(SS), pp.55-60, 2022年7月. <span style="color: red; "><i class="fa-solid fa-trophy"></i>研究奨励賞</span>
 3. **Yuta Ishimoto**, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, “抽象モデル上のn-gramに着目したRNNに対するFault Localization,” 第5回機械学習工学研究会 (MLSE夏合宿2022), 2022年6月. (ポスター発表)
 4. 蔵元 宏樹, **石本 優太**, 新堂 風, 近藤 将成, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, “GitHubにおけるバグ報告等の動画および画像の活用実態に関する調査,” 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.121, no.416(SS), pp.78-83, 2022年3月.
 5. **石本 優太**, 松井 健, 鵜林 尚靖, 亀井 靖高, “RNNの抽象化モデルに対するバグ限局とその評価,” 第207回ソフトウェア工学研究発表会, 2021-SE-207(2), pp.1-8, 2021年3月. <span style="color: red; "><i class="fa-solid fa-trophy"></i>学生研究賞 <i class="fa-solid fa-trophy"></i>コンピュータサイエンス領域奨励賞</span>
