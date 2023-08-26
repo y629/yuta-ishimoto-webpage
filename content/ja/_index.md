@@ -17,6 +17,7 @@ sections:
     content:
       title: ニュース
       text: |-
+        - [**2023/08**] ソフトウェアエンジニアリングシンポジウム2023（早稲田大学西早稲田キャンパスで開催）にて招待論文発表．
         - [**2023/07**] MSR Asia Summit 2023 (札幌&定山渓, 北海道で開催) にLocal Arrangement Chair, ポスター発表者として参加．3日間という短期間で研究に取り組むResearchathonにも参加．
         - [**2023/06**] 国際会議EASE (オウル, フィンランドで開催) に参加し，論文発表．
         - [**2023/05**] 国際会議ICSEおよび併設会議のCAIN (メルボルン, オーストラリアで開催) に参加．CAINにて論文発表.
@@ -24,7 +25,7 @@ sections:
         - [**2023/03**] SE4AIに関する国際会議CAIN (International Conference on AI Engineering – Software Engineering for AI) に論文採択 ([An Initial Analysis of Repair and Side-effect Prediction for Neural Networks](/ja/publication/ishimoto-2023-initial/))．
         - [**2023/03**] 修士（工学）取得．
 
-        [以前のニュース >>](/ja/news)
+        [すべてのニュース >>](/ja/news)
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
