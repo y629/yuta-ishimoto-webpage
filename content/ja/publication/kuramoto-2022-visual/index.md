@@ -37,7 +37,7 @@ projects: []
 publishDate: '2023-08-04T03:33:21.567230Z'
 publication_types:
 - '1'
-abstract: ''
+abstract: 'Issue reports are a pivotal interface between developers and users for receiving information about bugs in their products. In practice, issue reports often have incorrect information or insufficient information to enable bugs to be reproduced, and this has the effect of delaying the entire bug-fixing process. To facilitate their bug-reproduction work, GitHub has provided a new feature that allows users to share videos (e.g., mp4 files.) Using such videos, reports can be made to developers about the details of bugs by recording the symptoms, reproduction steps, and other important aspects of bug information. While such visual issue reports have the potential to significantly improve the bug-fixing process, no studies have empirically exam-ined this impact. In this paper, we conduct a preliminary study to identify the characteristics of visual issue reports by comparing them with non-visual issue reports. We collect 1,230 videos and 18,760 images from 226,286 issues on 4,173 publicly available repositories. Our preliminary analysis shows that issue reports with images are described in fewer words than non-visual issue reports. In addition, we observe that most dis-cussions in visual issue reports are concerned with either conditions for reproduction (e.g., when) or GUI (e.g., pageviewcontroller.)'
 publication: '*In Proceedings of the 30th International Conference on Program Comprehension
   (ICPC)*'
 

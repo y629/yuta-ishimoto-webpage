@@ -34,7 +34,26 @@ projects: []
 publishDate: '2023-08-04T03:33:21.267582Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Context:
+If deep learning models in safety–critical systems misbehave, serious accidents may occur. Previous studies have proposed approaches to overcome such misbehavior by detecting and modifying the responsible faulty parts in deep learning models. For example, fault localization has been applied to deep neural networks to detect neurons that cause misbehavior.
+
+Objective:
+However, such approaches are not applicable to deep learning models that have internal states, which change dynamically based on the input data samples (e.g., recurrent neural networks (RNNs)). Hence, we propose a new fault localization approach to be applied to RNNs.
+
+Methods:
+We propose probabilistic automaton-based fault localization (PAFL). PAFL enables developers to detect faulty parts even in RNNs by computing suspiciousness scores with fault localization using 
+-grams. We convert RNNs into probabilistic finite automata (PFAs) and localize faulty sequences of state transitions on PFAs. To consider various sequences and to detect faulty ones more precisely, we use 
+-grams inspired by natural language processing. Additionally, we distinguish data samples related to the misbehavior to evaluate PAFL. We also propose a novel suspiciousness score, average 
+-gram suspiciousness (ANS) score, based on 
+-grams to distinguish data samples. We evaluate PAFL and ANS scores on eight publicly available datasets on three RNN variants: simple recurrent neural network, gated recurrent units, and long short-term memory.
+
+Results:
+The experiment demonstrates that ANS scores identify faulty parts of RNNs when 
+ is greater than one. Moreover, PAFL is statistically significantly better and has large effect sizes compared to state-of-the-art fault localization in terms of distinguishing data samples related to the misbehavior. Specifically, PAFL is better in 66.74% of the experimental settings.
+
+Conclusion:
+The results demonstrate that PAFL can be used to detect faulty parts in RNNs. Hence, in future studies, PAFL can be used as a baseline for fault localization in RNNs.'
+
 publication: '*Information and Software Technology*'
 
 links: 
