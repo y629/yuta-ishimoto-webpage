@@ -27,6 +27,7 @@ view: 1
 
 ## 国内学会発表
 <!-- これは<span style="color: red; ">赤文字</span>です -->
+1. **石本 優太**, 近藤 将成, 鵜林 尚靖, 亀井 靖高, “深層学習モデルの自動修正技術の効果および副作用の見積もり,” 第30回ソフトウェア工学の基礎ワークショップ (FOSE) 2023, 2023年11月. (ポスター発表)
 1. **Yuta Ishimoto**, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, “An Analysis and Prediction of Repair and Break for Neural Network Repair Techniques,” MSR Asia Summit 2023, 2023年7月. (ポスター発表)
 1. Jianhong Wang, **Yuta Ishimoto**, Masanari Kondo, Yasutaka Kamei, Naoyasu Ubayashi, “Towards Robust Object Detection Models by Metamorphic Testing,” 第213回ソフトウェア工学研究発表会, 2023-SE-213(16), pp.1-8, 2023年3月. <span style="color: red; "><i class="fa-solid fa-trophy"></i>学生研究賞</span>
 1. 稲田 司, **石本 優太**, 近藤 将成, 亀井 靖高, 鵜林 尚靖, “Dockerfileの開発を支援するインタラクティブツールの提案,” 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.122, no.432(SS), pp.43-48, 2023年3月.
@@ -44,7 +45,7 @@ view: 1
 
 ## 研究助成
 1. 日本学術振興会 特別研究員（DC2）採用内定, 2024年4月〜.
-1. 九州大学 先導的⼈材育成フェローシップ事業 (情報・AI 分野) 採用, 2023年4月〜.
+1. 九州大学 先導的⼈材育成フェローシップ事業 (情報・AI 分野) 採用, 2023年4月〜2024年3月.
 1. 日本学生支援機構 第一種奨学金 特に優れた業績による返還免除 (半額免除), 2023年7月.
 
 ## 学会活動
