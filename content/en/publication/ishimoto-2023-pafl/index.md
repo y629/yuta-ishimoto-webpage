@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-08-04T03:33:21.267582Z'
+publishDate: '2023-11-05T16:35:32.335175Z'
 publication_types:
 - '2'
 abstract: 'Context:
@@ -56,7 +56,7 @@ The results demonstrate that PAFL can be used to detect faulty parts in RNNs. He
 
 publication: '*Information and Software Technology*'
 
-links: 
+links:
 - name: Website (Open Access)
   url: https://doi.org/10.1016/j.infsof.2022.107117
 - name: Code

@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-08-04T03:33:21.409020Z'
+publishDate: '2023-11-05T16:35:32.497542Z'
 publication_types:
 - '1'
 abstract: 'With the prevalence of software systems adopting neural network models, the quality assurance of these systems has become crucial. Hence, various studies have proposed repairing methods for neural network models so far to improve the quality of the models. While these methods are evaluated by researchers, it is difficult to tell whether they succeed in all models and datasets (i.e., all developers’ environments). Because these methods require many resources, such as execution times, failing to repair neural networks would cost developers their resources. Hence, if developers can know whether repairing methods succeed before adopting them, they could avoid wasting their resources. This paper proposes prediction models that predict whether repairing methods succeed in repairing neural networks using a small resource. Our prediction models predict repairs and side-effects of repairing methods, respectively. We evaluated our prediction models on a state-of-the-art repairing method Arachne on three datasets, Fashion-MNIST, CIFAR-10, and GTSRB, and found our prediction models achieved high performance, an average ROC-AUC of 0.931 and an average f1score of 0.880 for the side-effects and an average ROC-AUC of 0.768 and an average f1-score of 0.725 for the repairs.'
@@ -39,7 +39,7 @@ abstract: 'With the prevalence of software systems adopting neural network model
 publication: '*Proceedings of the 2nd International Conference on AI Engineering--Software
   Engineering for AI (CAIN)*'
 
-links: 
+links:
 - name: Proceedings
   url: https://ieeexplore.ieee.org/abstract/document/10164756
 - name: PDF
