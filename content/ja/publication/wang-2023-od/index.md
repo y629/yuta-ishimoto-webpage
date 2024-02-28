@@ -36,4 +36,8 @@ publication_types:
 - '1'
 abstract: 'Object detection models are widely used in safety-critical systems in industrial fields such as autonomous driving. It is essential to improve the robustness of object detection models capable of avoiding failures in realistic scenarios. This study proposes metamorphic testing on the object detection model robustness. The metamorphic testing generates metamorphic tested images that simulate the realistic perturbations in production environments. In order to evaluate the model robustness, Bayesian uncertainty is used to describe how the model maintains its reliability on the prediction. This paper shows how metamorphic testing performs the evaluation of the model robustness with Bayesian uncertainty, and how metamorphic testing can improve the model robustness by retraining the models.'
 publication: '*Proceedings of the 23rd International Conference on Software Quality, Reliability, and Security Companion (QRS-C)*'
+
+links:
+- name: Proceedings
+  url: https://ieeexplore.ieee.org/document/10430044
 ---
