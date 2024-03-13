@@ -28,6 +28,7 @@ view: 1
 
 ## 国内学会発表
 <!-- これは<span style="color: red; ">赤文字</span>です -->
+1. 中村悠人, **<u>石本優太</u>**, 勝部瞭太, 佐藤直人, 小川秀人, 近藤将成, 亀井靖高, 鵜林尚靖, “量子プログラムにおけるSATDの分類と評価,” 電子情報通信学会技術報告 (知能ソフトウェア工学研究会), vol.123, no.443, pp126-131, 2024年3月.
 1. **<u>石本 優太</u>**, 近藤 将成, 鵜林 尚靖, 亀井 靖高, “深層学習モデルの自動修正技術の効果および副作用の見積もり,” 第30回ソフトウェア工学の基礎ワークショップ (FOSE) 2023, 2023年11月. (ポスター発表)
 1. **<u>Yuta Ishimoto</u>**, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, “An Analysis and Prediction of Repair and Break for Neural Network Repair Techniques,” MSR Asia Summit 2023, 2023年7月. (ポスター発表)
 1. Jianhong Wang, **<u>Yuta Ishimoto</u>**, Masanari Kondo, Yasutaka Kamei, Naoyasu Ubayashi, “Towards Robust Object Detection Models by Metamorphic Testing,” 第213回ソフトウェア工学研究発表会, 2023-SE-213(16), pp.1-8, 2023年3月. <span style="color: red; "><i class="fa-solid fa-trophy"></i>学生研究賞</span>
@@ -52,5 +53,6 @@ view: 1
 1. Local Arrangement Chair, [MSR Asia Summit 2023](https://msrasiasummit.github.io/).
 
 ## その他
+1. [8大学共同開催「情報学 for all by all」](https://www.i.u-tokyo.ac.jp/events/joho-for-all2024/) 登壇
 1. 石本 優太, 近藤 将成, ⻲井 靖⾼, 鵜林 尚靖, AI の品質保証：5. ニューラルネットワークモデルのバグ限局・⾃動
 修正技術, 情報処理, 63(11), e28-e33, 2022 年 10 ⽉. (補⾜: 情報処理学会誌2022年11月号の特集記事執筆.)
