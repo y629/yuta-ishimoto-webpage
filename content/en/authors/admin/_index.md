@@ -22,7 +22,7 @@ organizations:
     url: https://www.kyushu-u.ac.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Software Engineering for AI (SE4AI, MLSE).
+bio: My research interests include Software Engineering for AI (SE4AI).
 
 # Interests to show in About widget
 interests:
@@ -80,7 +80,10 @@ highlight_name: true
 
 I'm a Ph.D. student in Graduate School of Information Science at Kyushu University, where I'm supervised by Prof. <a href="https://posl.ait.kyushu-u.ac.jp/~kamei/">Yasutaka Kamei</a> (<a href="https://posl.ait.kyushu-u.ac.jp/ja/" target="_blank">Our lab's web here</a>) .
 I received B.Eng. and M.Eng. degrees from the Kyushu University (2021 and 2023).
+I am supported by Japan Society for the Promotion of Science (JSPS) research fellowship (DC2) (2024.4-).
 
-My research topic is Software Engineering for AI/ML (SE4AI, SE4ML).
+My research topic is Software Engineering for AI/ML (SE4AI).
 A recent topic is a repair/debugging for DNNs.
-I like both practical and theoretical things!<!-- {style="text-align: justify;"} -->
+I am also conducting research on quantum software engineering.
+
+<a href='/ja/'>日本語のページはこちら >></a>

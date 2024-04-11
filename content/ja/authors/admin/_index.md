@@ -81,10 +81,14 @@ email: ''
 highlight_name: true
 ---
 
-九州大学大学院 システム情報科学府 情報理工学専攻 博士課程1年．
+九州大学大学院 システム情報科学府 情報理工学専攻 博士課程に在籍．
 
-学部4年より <a href="https://posl.ait.kyushu-u.ac.jp/ja/" target="_blank">九州大学 鵜林・亀井研究室 (POSL)</a> に配属．
-<a href="https://posl.ait.kyushu-u.ac.jp/~kamei/index_jp.html" target="_blank">亀井 靖高</a> 教授のもとで機械学習システムに対するソフトウェア工学 (SE4AI, MLSE) の研究に従事．
-これまで，RNNモデルに対する自動的なバグの原因特定の研究や，DNN修正技術による新たなバグ混入を事前に予測する研究を行う．
+学部4年より <a href="https://posl.ait.kyushu-u.ac.jp/ja/" target="_blank">九州大学 亀井研究室 (POSL)</a> に配属．
+<a href="https://posl.ait.kyushu-u.ac.jp/~ubayashi/index_jp.html" target="_blank">鵜林 尚靖</a> 現早稲田大学特任教授，<a href="https://posl.ait.kyushu-u.ac.jp/~kamei/index_jp.html" target="_blank">亀井 靖高</a> 教授の指導もと機械学習システムに対するソフトウェア工学 (SE4AI, MLSE) の研究に従事．
 近年は量子ソフトウェアのためのソフトウェア工学の研究にも従事．
+2024年度より日本学術振興会 (JSPS) 特別研究員 (DC2)．
+
+<a href='/en/'>English page is here >></a>
+
+
 <!-- {style="text-align: justify;"} -->
