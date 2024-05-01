@@ -50,7 +50,7 @@ sections:
           - publication
         exclude_featured: false
     design:
-      columns: '2'
+      columns: '1'
       view: citation
 
   - block: markdown
@@ -89,7 +89,7 @@ sections:
       address:
         street: 
         city: 
-        region: 〒819-0395 福岡県福岡市西区 元岡744
+        region: 〒819-0395 福岡県福岡市西区 元岡744 ウエスト2号館 - 810
         postcode: 
         country: Japan
         country_code: JP
