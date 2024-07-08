@@ -17,6 +17,7 @@ sections:
     content:
       title: ニュース
       text: |-
+        - [**2024/07**] [MSR Summit Japan 2024](https://posl.ait.kyushu-u.ac.jp/~msrsummitjapan2024/#) 参加．
         - [**2024/03**] [8大学共同開催「情報学 for all by all」](https://www.i.u-tokyo.ac.jp/events/joho-for-all2024/) 登壇．
         - [**2023/10-11**] 東京大学 Lei Ma准教授の研究室にて特別研究学生として在籍．
         - [**2023/10**] 国際会議QRSに参加し，論文発表（オンラインで発表）．
