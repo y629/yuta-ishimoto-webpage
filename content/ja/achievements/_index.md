@@ -52,6 +52,7 @@ view: 1
 
 ## 学会活動
 1. Local Arrangement Chair, [MSR Asia Summit 2023](https://msrasiasummit.github.io/).
+1. [ソフトウェアエンジニアリングシンポジウム2024 (SES2024)](https://ses.sigse.jp/2024/), サブレビュワー.
 
 ## その他
 1. [スキルアップAIキャンプ (AIソフトウェアの品質保証に関する動向)](https://www.skillupai.com/skillupai-camp/240508/) 登壇, 2024 年 5月.
