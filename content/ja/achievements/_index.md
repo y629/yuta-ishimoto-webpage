@@ -55,6 +55,7 @@ view: 1
 1. [ソフトウェアエンジニアリングシンポジウム2024 (SES2024)](https://ses.sigse.jp/2024/), サブレビュワー.
 
 ## その他
+1. [スキルアップAIキャンプ (AIソフトウェアの品質保証に関する動向 その2)](https://www.skillupai.com/skillupai-camp/240821/) 登壇, 2024 年 8月.
 1. [スキルアップAIキャンプ (AIソフトウェアの品質保証に関する動向)](https://www.skillupai.com/skillupai-camp/240508/) 登壇, 2024 年 5月.
 1. [8大学共同開催「情報学 for all by all」](https://www.i.u-tokyo.ac.jp/events/joho-for-all2024/) 登壇, 2024 年 3月.
 1. 石本 優太, 近藤 将成, ⻲井 靖⾼, 鵜林 尚靖, AI の品質保証：5. ニューラルネットワークモデルのバグ限局・⾃動
