@@ -17,6 +17,8 @@ sections:
     content:
       title: ニュース
       text: |-
+        - [**2024/09-10**] 国立情報学研究所 石川 冬樹准教授の研究室を訪問し共同研究を実施
+        - [**2024/09**] 国際会議APSEC 2024 Technical Track に論文採択 ([An Empirical Study on Self-Admitted Technical Debt in Quantum Software](/ja/publication/ishimoto-2024-qsatd/))．
         - [**2024/07**] [MSR Summit Japan 2024](https://posl.ait.kyushu-u.ac.jp/~msrsummitjapan2024/#) 参加．
         - [**2024/03**] [8大学共同開催「情報学 for all by all」](https://www.i.u-tokyo.ac.jp/events/joho-for-all2024/) 登壇．
         - [**2023/10-11**] 東京大学 Lei Ma准教授の研究室にて特別研究学生として在籍．

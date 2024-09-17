@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: First-year Ph.D. Student
+role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -78,6 +78,6 @@ email: ''
 highlight_name: true
 ---
 
-I'm a first-year Ph.D. student in Graduate School of Information Science at Kyushu University, where I'm supervised by Prof. <a href="https://posl.ait.kyushu-u.ac.jp/~ubayashi/index_en.html">Naoyasu Ubayashi</a>.
+I'm a Ph.D. student in Graduate School of Information Science at Kyushu University, where I'm supervised by Prof. <a href="https://posl.ait.kyushu-u.ac.jp/~ubayashi/index_en.html">Naoyasu Ubayashi</a>.
 I received B.Eng. and M.Eng. degrees from the Kyushu University (2021 and 2023).
 <!-- {style="text-align: justify;"} -->
