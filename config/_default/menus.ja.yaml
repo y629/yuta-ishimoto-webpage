@@ -10,9 +10,9 @@ main:
   - name: ニュース
     url: '#news'
     weight: 20
-  - name: 論文誌・国際会議論文
-    url: '#publications'
-    weight: 30
+  # - name: 論文誌・国際会議論文
+  #   url: '#publications'
+  #   weight: 30
   - name: 研究成果
     url: '/ja/achievements'
     weight: 60
