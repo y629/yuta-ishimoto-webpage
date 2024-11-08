@@ -14,7 +14,7 @@ tags: []
 categories: []
 date: '2023-05-01'
 lastmod: 2023-08-04T11:27:37+09:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -38,10 +38,9 @@ abstract: 'With the prevalence of software systems adopting neural network model
 
 publication: '*Proceedings of the 2nd International Conference on AI Engineering--Software
   Engineering for AI (CAIN)*'
+doi: 10.1109/CAIN58948.2023.00017
 
 links:
-- name: Proceedings
-  url: https://ieeexplore.ieee.org/abstract/document/10164756
 - name: PDF
   url: https://posl.ait.kyushu-u.ac.jp/~ishimoto/pdfs/cain_short_paper.pdf
 - name: Code

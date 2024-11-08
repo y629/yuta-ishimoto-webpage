@@ -41,9 +41,9 @@ abstract: 'Issue reports are a pivotal interface between developers and users fo
 publication: '*In Proceedings of the 30th International Conference on Program Comprehension
   (ICPC)*'
 
+doi: 10.1145/3524610.3527882
+
 links: 
-- name: Proceedings
-  url: https://ieeexplore.ieee.org/document/9796289
 - name: PDF
   url: https://posl.ait.kyushu-u.ac.jp/~kamei/publications/Kuramoto_ICPC2022.pdf
 ---

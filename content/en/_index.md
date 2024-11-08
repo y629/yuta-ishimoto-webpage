@@ -4,6 +4,10 @@ title:
 date: 2022-10-24
 type: landing
 
+design:
+  # Default section spacing
+  spacing: "6rem"
+
 sections:
   - block: about.biography
     id: about
@@ -16,15 +20,17 @@ sections:
     id: publications
     content:
       title: Publications
-      subtitle: Refereed
+      subtitle: Refereed and first-authored
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Quickly discover relevant content by [filtering publications](/en/publication/).
         {{% /callout %}}
+
+        [All research achievements >>](/en/achievements)
       filters:
         folders:
           - publication
-        exclude_featured: false
+        featured_only: true
     design:
       columns: '2'
       view: citation

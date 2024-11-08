@@ -17,7 +17,7 @@ authors:
 categories: []
 date: '2024-11-01'
 lastmod: 2024-11-06T23:19:47+09:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

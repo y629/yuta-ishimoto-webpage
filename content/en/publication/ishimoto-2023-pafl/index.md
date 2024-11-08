@@ -14,7 +14,7 @@ tags: []
 categories: []
 date: '2023-03-01'
 lastmod: 2023-08-04T11:27:37+09:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -55,10 +55,9 @@ Conclusion:
 The results demonstrate that PAFL can be used to detect faulty parts in RNNs. Hence, in future studies, PAFL can be used as a baseline for fault localization in RNNs.'
 
 publication: '*Information and Software Technology*'
+doi: 10.1016/j.infsof.2022.107117
 
 links:
-- name: Website (Open Access)
-  url: https://doi.org/10.1016/j.infsof.2022.107117
 - name: Code
   url: https://github.com/posl/PAFL-replication
 ---

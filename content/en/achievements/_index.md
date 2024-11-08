@@ -12,6 +12,9 @@ view: 1
 ---
 
 ## 🌐 International
+
+*Quickly discover relevant content by [filtering publications](/en/publication/).*
+
 ### International Journal Paper (refereed)
 1. **[TOSEM'24]** **<u>Yuta Ishimoto</u>**, Masanari Kondo, Lei Ma, Naoyasu Ubayashi, Yasutaka Kamei, “Repairs and Breaks Prediction for Deep Neural Networks,” *ACM Transactions on Software Engineering and Methodology (TOSEM)*, (accepted, to appear). (IF (2023) = 6.6). [[PDF]](https://dl.acm.org/doi/10.1145/3702983)
 2. **[IST'23]** **<u>Yuta Ishimoto</u>**, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, “PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks,” *Information and Software Technology (IST)*, Volume 155, Article number: 107117, March 2023. (IF (2022) = 3.9).  **[Selected for the journal first program of EASE 2023]** [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950584922002269?via%3Dihub)

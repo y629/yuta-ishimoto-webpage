@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: ニュース
-    url: '#news'
+    url: '/ja/news'
     weight: 20
   # - name: 論文誌・国際会議論文
   #   url: '#publications'
