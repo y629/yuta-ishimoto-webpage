@@ -21,6 +21,8 @@ sections:
     content:
       title: ニュース
       text: |-
+        - [**2024/12**] 国際会議APSEC 2024にて，(1) 併設ワークショップのEEE-OSSにパネリストとして参加，(2) 本会議Technical Trackで論文発表．
+        - [**2024/11**] 第31回ソフトウェア工学の基礎ワークショップ (FOSE2024) に参加し，ポスター発表．
         - [**2024/10**] ソフトウェア工学のトップ国際論文誌TOSEM (ACM Transactions on Software Engineering and Methodology) に論文採択（Repairs and Breaks Prediction for Deep Neural Networks）
         - [**2024/09-10**] 国立情報学研究所 石川 冬樹准教授の研究室を訪問し共同研究を実施
         - [**2024/09**] 国際会議APSEC 2024 Technical Track に論文採択 ([An Empirical Study on Self-Admitted Technical Debt in Quantum Software](/ja/publication/ishimoto-2024-qsatd/))．
