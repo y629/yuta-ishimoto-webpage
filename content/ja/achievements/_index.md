@@ -28,6 +28,9 @@ view: 1
 ### International Conference Presentation (not refereed)
 1. **[EASE'23]** **<u>Yuta Ishimoto</u>**, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, “PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks,” *In Journal First track of the International Conference on Evaluation and Assessment in Software Engineering (EASE)*, June 2023, Oulu, Finland. (Presentation only, no paper.)
 
+## Other Talks
+1. **[EEE-OSS'24]** Attended as a panelist at the workshop of Exploring Employee Experience in Open Source Software ([EEE-OSS](https://posl.ait.kyushu-u.ac.jp/~eee-oss2024/)), a co-located workshop of the 31st Asia-Pacific Software Engineering Conference (APSEC)
+
 ---
 
 ## 🗾 Domestic in Japan
