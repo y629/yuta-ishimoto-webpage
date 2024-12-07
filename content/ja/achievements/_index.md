@@ -40,17 +40,17 @@ view: 1
 
 ### 国内研究会発表 (査読なし)
 <!-- これは<span style="color: red; ">赤文字</span>です -->
-1. **<u>石本 優太</u>**, 近藤 将成, 馬 雷, 鵜林 尚靖, 亀井 靖高, “Repairs and Breaks Prediction for Deep Neural Networks,” 第31回ソフトウェア工学の基礎ワークショップ (FOSE 2024), 2024年11月. (ポスター発表) <span style="color: red; "><i class="fa-solid fa-trophy"></i>ポスター・デモ賞</span>
-1. 友池 真輝, **<u>石本 優太</u>**, 近藤 将成, 鵜林 尚靖, 亀井 靖高, “LLMを用いたソフトウェア工学エージェントに対するパーソナリティの影響の初期調査,” ソフトウェアエンジニアリングシンポジウム2024論文集 (SES2024), pp.123-129, 一般論文, 2024年9月.
-2. 中村 悠人, **<u>石本 優太</u>**, 勝部 瞭太, 佐藤 直人, 小川 秀人, 近藤 将成, 亀井 靖高, 鵜林 尚靖, “量子プログラムにおけるSATDの分類と評価,” 電子情報通信学会技術報告 (知能ソフトウェア工学研究会), vol.123, no.443, pp126-131, 2024年3月.
-3. **<u>石本 優太</u>**, 近藤 将成, 鵜林 尚靖, 亀井 靖高, “深層学習モデルの自動修正技術の効果および副作用の見積もり,” 第30回ソフトウェア工学の基礎ワークショップ (FOSE) 2023, 2023年11月. (ポスター発表)
-4. **<u>Yuta Ishimoto</u>**, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, “An Analysis and Prediction of Repair and Break for Neural Network Repair Techniques,” MSR Asia Summit 2023, 2023年7月. (ポスター発表)
-5. Jianhong Wang, **<u>Yuta Ishimoto</u>**, Masanari Kondo, Yasutaka Kamei, Naoyasu Ubayashi, “Towards Robust Object Detection Models by Metamorphic Testing,” 第213回ソフトウェア工学研究発表会, 2023-SE-213(16), pp.1-8, 2023年3月. <span style="color: red; "><i class="fa-solid fa-trophy"></i>学生研究賞</span>
-6. 稲田 司, **<u>石本 優太</u>**, 近藤 将成, 亀井 靖高, 鵜林 尚靖, “Dockerfileの開発を支援するインタラクティブツールの提案,” 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.122, no.432(SS), pp.43-48, 2023年3月.
-7. **<u>石本 優太</u>**, 近藤 将成, 鵜林 尚靖, 亀井靖高, “確率的オートマトンとn-gramに基づくRNNに対するバグ限局,” 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.122, no.138(SS), pp.55-60, 2022年7月. <span style="color: red; "><i class="fa-solid fa-trophy"></i>研究奨励賞</span>
-8. **<u>Yuta Ishimoto</u>**, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, “抽象モデル上のn-gramに着目したRNNに対するFault Localization,” 第5回機械学習工学研究会 (MLSE夏合宿2022), 2022年6月. (ポスター発表)
-9. 蔵元 宏樹, **<u>石本 優太</u>**, 新堂 風, 近藤 将成, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, “GitHubにおけるバグ報告等の動画および画像の活用実態に関する調査,” 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.121, no.416(SS), pp.78-83, 2022年3月.
-10. **<u>石本 優太</u>**, 松井 健, 鵜林 尚靖, 亀井 靖高, “RNNの抽象化モデルに対するバグ限局とその評価,” 第207回ソフトウェア工学研究発表会, 2021-SE-207(2), pp.1-8, 2021年3月. <span style="color: red; "><i class="fa-solid fa-trophy"></i>学生研究賞 <i class="fa-solid fa-trophy"></i>コンピュータサイエンス領域奨励賞</span>
+1. **<u>石本 優太</u>**, 近藤 将成, 馬 雷, 鵜林 尚靖, 亀井 靖高, “Repairs and Breaks Prediction for Deep Neural Networks,” 第31回ソフトウェア工学の基礎ワークショップ (FOSE 2024), 2024年11月. (ポスター発表) <span style="color: red; "><i class="fa-solid fa-trophy"></i>ポスター・デモ賞</span> [[PDF]](../pdfs/fose2024_poster_ishimoto.pdf)
+2. 友池 真輝, **<u>石本 優太</u>**, 近藤 将成, 鵜林 尚靖, 亀井 靖高, “LLMを用いたソフトウェア工学エージェントに対するパーソナリティの影響の初期調査,” ソフトウェアエンジニアリングシンポジウム2024論文集 (SES2024), pp.123-129, 一般論文, 2024年9月.
+3. 中村 悠人, **<u>石本 優太</u>**, 勝部 瞭太, 佐藤 直人, 小川 秀人, 近藤 将成, 亀井 靖高, 鵜林 尚靖, “量子プログラムにおけるSATDの分類と評価,” 電子情報通信学会技術報告 (知能ソフトウェア工学研究会), vol.123, no.443, pp126-131, 2024年3月.
+4. **<u>石本 優太</u>**, 近藤 将成, 鵜林 尚靖, 亀井 靖高, “深層学習モデルの自動修正技術の効果および副作用の見積もり,” 第30回ソフトウェア工学の基礎ワークショップ (FOSE) 2023, 2023年11月. (ポスター発表)
+5. **<u>Yuta Ishimoto</u>**, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, “An Analysis and Prediction of Repair and Break for Neural Network Repair Techniques,” MSR Asia Summit 2023, 2023年7月. (ポスター発表)
+6. Jianhong Wang, **<u>Yuta Ishimoto</u>**, Masanari Kondo, Yasutaka Kamei, Naoyasu Ubayashi, “Towards Robust Object Detection Models by Metamorphic Testing,” 第213回ソフトウェア工学研究発表会, 2023-SE-213(16), pp.1-8, 2023年3月. <span style="color: red; "><i class="fa-solid fa-trophy"></i>学生研究賞</span>
+7. 稲田 司, **<u>石本 優太</u>**, 近藤 将成, 亀井 靖高, 鵜林 尚靖, “Dockerfileの開発を支援するインタラクティブツールの提案,” 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.122, no.432(SS), pp.43-48, 2023年3月.
+8. **<u>石本 優太</u>**, 近藤 将成, 鵜林 尚靖, 亀井靖高, “確率的オートマトンとn-gramに基づくRNNに対するバグ限局,” 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.122, no.138(SS), pp.55-60, 2022年7月. <span style="color: red; "><i class="fa-solid fa-trophy"></i>研究奨励賞</span>
+9. **<u>Yuta Ishimoto</u>**, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, “抽象モデル上のn-gramに着目したRNNに対するFault Localization,” 第5回機械学習工学研究会 (MLSE夏合宿2022), 2022年6月. (ポスター発表)
+10. 蔵元 宏樹, **<u>石本 優太</u>**, 新堂 風, 近藤 将成, 柏 祐太郎, 亀井 靖高, 鵜林 尚靖, “GitHubにおけるバグ報告等の動画および画像の活用実態に関する調査,” 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.121, no.416(SS), pp.78-83, 2022年3月.
+11. **<u>石本 優太</u>**, 松井 健, 鵜林 尚靖, 亀井 靖高, “RNNの抽象化モデルに対するバグ限局とその評価,” 第207回ソフトウェア工学研究発表会, 2021-SE-207(2), pp.1-8, 2021年3月. <span style="color: red; "><i class="fa-solid fa-trophy"></i>学生研究賞 <i class="fa-solid fa-trophy"></i>コンピュータサイエンス領域奨励賞</span>
 
 ### 受賞
 論文に対する賞については自分が筆頭著者のもののみ掲載．
