@@ -21,6 +21,7 @@ sections:
     content:
       title: ニュース
       text: |-
+        - [**2024/12**] 母校の福井高専にて高専からの編入や研究についての先輩講座を実施 ([スライド](./pdfs/20241219_3EI_石本.pdf))．
         - [**2024/12**] 国際会議APSEC 2024にて，(1) 併設ワークショップのEEE-OSSにパネリストとして参加，(2) 本会議Technical Trackで論文発表．
         - [**2024/11**] 第31回ソフトウェア工学の基礎ワークショップ (FOSE2024) に参加し，ポスター発表．
         - [**2024/10**] ソフトウェア工学のトップ国際論文誌TOSEM (ACM Transactions on Software Engineering and Methodology) に論文採択（Repairs and Breaks Prediction for Deep Neural Networks）
