@@ -19,14 +19,14 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: Featured Publications
       subtitle: Refereed and first-authored
       text: |-
+        [All research achievements >>](/en/achievements)
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](/en/publication/).
         {{% /callout %}}
 
-        [All research achievements >>](/en/achievements)
       filters:
         folders:
           - publication
