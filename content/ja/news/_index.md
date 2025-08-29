@@ -10,7 +10,14 @@ cms_exclude: true
 view: 1
 
 ---
+
 ### 2025
+- [**2025/10**] スイス・Università della Svizzera italiana (USI)のGabriele Bavota教授のもとを訪れ共同研究プロジェクトを推進．
+- [**2025/09**] カナダ・Queen's UniversityのAhmed E. Hassan教授, Hao Li博士のもとを訪れ共同研究プロジェクトを推進．
+- [**2025/09**] 日本ソフトウェア科学会第40回大会@東海大学品川キャンパスにてトップカンファレンス・トップ論文誌特別講演のセッションで発表．
+- [**2025/07**] MLSE夏合宿 2025@箱根にて既発表論文発表．
+- [**2025/06**] 国際会議FSE 2025@トロンヘイム, ノルウェーにて論文発表 (Journal First Track)．
+- [**2025/06**] 国際会議EASE 2025@イスタンブール, トルコにて論文発表 (Short Papers, Emerging Results Track)．
 - [**2025/04**] 国際会議EASE 2025 Short Papers, Emerging Results Trackにて論文採択 (Evaluating Mutation-based Fault Localization for Quantum Programs)
 - [**2025/03**] ソフトウェアサイエンス研究会 (SIGSS) @奄美大島で発表 ([量子プログラムに対するミューテーションに基づく欠陥局所化](https://ken.ieice.org/ken/paper/20250312QcJC/))．
 
@@ -23,6 +30,7 @@ view: 1
 - [**2024/09**] 国際会議APSEC 2024 Technical Track に論文採択 ([An Empirical Study on Self-Admitted Technical Debt in Quantum Software](/ja/publication/ishimoto-2024-qsatd/))．
 - [**2024/07**] [MSR Summit Japan 2024](https://posl.ait.kyushu-u.ac.jp/~msrsummitjapan2024/#) 参加．
 - [**2024/03**] [8大学共同開催「情報学 for all by all」](https://www.i.u-tokyo.ac.jp/events/joho-for-all2024/) 登壇．
+
 ### 2023
 - [**2023/10-11**] 東京大学 Lei Ma准教授の研究室にて特別研究学生として在籍．
 - [**2023/10**] 国際会議QRSに参加し，論文発表（オンラインで発表）．

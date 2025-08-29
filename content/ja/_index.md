@@ -21,13 +21,12 @@ sections:
     content:
       title: ニュース
       text: |-
+        - [**2025/09**] 日本ソフトウェア科学会第40回大会@東海大学品川キャンパスにてトップカンファレンス・トップ論文誌特別講演のセッションで発表．
+        - [**2025/07**] MLSE夏合宿 2025@箱根にて既発表論文発表．
+        - [**2025/06**] 国際会議FSE 2025@トロンヘイム, ノルウェーにて論文発表 (Journal First Track)．
+        - [**2025/06**] 国際会議EASE 2025@イスタンブール, トルコにて論文発表 (Short Papers, Emerging Results Track)．
         - [**2025/04**] 国際会議EASE 2025 Short Papers, Emerging Results Trackにて論文採択 (Evaluating Mutation-based Fault Localization for Quantum Programs)
         - [**2025/03**] ソフトウェアサイエンス研究会 (SIGSS) @奄美大島で発表 ([量子プログラムに対するミューテーションに基づく欠陥局所化](https://ken.ieice.org/ken/paper/20250312QcJC/))．
-        - [**2024/12**] 母校の福井高専にて高専からの編入や研究についての先輩講座を実施 ([スライド](./pdfs/20241219_3EI_石本.pdf))．
-        - [**2024/12**] 国際会議APSEC 2024にて，(1) 併設ワークショップのEEE-OSSにパネリストとして参加，(2) 本会議Technical Trackで論文発表．
-        - [**2024/11**] 第31回ソフトウェア工学の基礎ワークショップ (FOSE2024) に参加し，ポスター発表．
-        - [**2024/10**] ソフトウェア工学のトップ国際論文誌TOSEM (ACM Transactions on Software Engineering and Methodology) に論文採択（Repairs and Breaks Prediction for Deep Neural Networks）
-        - [**2024/09-10**] 国立情報学研究所 石川 冬樹准教授の研究室を訪問し共同研究を実施
 
         [すべてのニュース >>](/ja/news)
     design:

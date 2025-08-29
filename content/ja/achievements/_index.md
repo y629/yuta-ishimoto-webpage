@@ -33,15 +33,22 @@ view: 1
 ### Other Talks
 1. **[EEE-OSS'24]** Attended as a panelist at the workshop of Exploring Employee Experience in Open Source Software ([EEE-OSS](https://posl.ait.kyushu-u.ac.jp/~eee-oss2024/)), a co-located workshop of the 31st Asia-Pacific Software Engineering Conference (APSEC)
 
+### Activities
+1. ISSRE 2025, Artifact Evaluation Committee (AEC).
+1. FSE 2025, Research Papers, Sub-reviewer.
+
 ---
 
 ## 🗾 Domestic in Japan
 ### 招待講演
+1. **<u>Yuta Ishimoto</u>**, Masanari Kondo, Lei Ma, Naoyasu Ubayashi, Yasutaka Kamei, “Repairs and Breaks Prediction for Deep Neural Networks,” トップカンファレンス・トップ論文誌特別講演, 日本ソフトウェア科学会第42回大会 (JSSST2025), 2025年9月.
 1. **<u>Yuta Ishimoto</u>**, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, “PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks,” トップカンファレンス・トップ論文誌特別講演, 日本ソフトウェア科学会第40回大会 (JSSST2023), 2023年9月.
 1. **<u>Yuta Ishimoto</u>**, Masanari Kondo, Naoyasu Ubayashi, Yasutaka Kamei, “PAFL: Probabilistic Automaton-based Fault Localization for Recurrent Neural Networks,” 招待講演, ソフトウェアエンジニアリングシンポジウム2023 (SES2023), 2023年8月.
 
 ### 国内研究会発表 (査読なし)
 <!-- これは<span style="color: red; ">赤文字</span>です -->
+1. 中島 蒼太, **<u>石本 優太</u>**, 近藤 将成, Tao Xiao, 亀井 靖高, “大規模言語モデルを用いたSATDの分類体系の自動生成,” 第220回ソフトウェア工学研究発表会, 2025-SE-220(X), pp.X-X, 2025年7月.
+1. 石本 優太, “Repairs and Breaks Prediction for Deep Neural Networks,” 第8回機械学習工学ワークショップ (MLSE夏合宿2025), 2025年7月.
 1. **<u>石本 優太</u>**, 近藤 将成, 鵜林 尚靖, 亀井 靖高, 勝部 瞭太, 佐藤 直人, 小川 秀人, “量子プログラムに対するミューテーションに基づく欠陥局所化,” 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.124, no.429(SS), pp.194-199, 2025年3月.
 1. 植中 雄斗, **<u>石本 優太</u>**, 近藤 将成, 亀井 靖高, “ビデオゲームにおけるバグの自動検出手法の提案と初期評価,” 第219回ソフトウェア工学研究発表会, 2025-SE-219(5), pp.1-8, 2025年3月. 
 1. **<u>石本 優太</u>**, 近藤 将成, 馬 雷, 鵜林 尚靖, 亀井 靖高, “Repairs and Breaks Prediction for Deep Neural Networks,” 第31回ソフトウェア工学の基礎ワークショップ (FOSE 2024), 2024年11月. (ポスター発表) <span style="color: red; "><i class="fa-solid fa-trophy"></i>ポスター・デモ賞</span> [[PDF]](../pdfs/fose2024_poster_ishimoto.pdf)
@@ -73,7 +80,6 @@ view: 1
 1. Local Arrangement Chair, [MSR Asia Summit 2023](https://msrasiasummit.github.io/).
 1. [ソフトウェアエンジニアリングシンポジウム2024 (SES2024)](https://ses.sigse.jp/2024/), サブレビュワー.
 2. IPSJ Journal (2024), レビュワー.
-3. FSE2025 Research Papers, サブレビュワー.
 
 ### その他
 1. [スキルアップAIキャンプ (AIソフトウェアの品質保証に関する動向 その2)](https://www.skillupai.com/skillupai-camp/240821/) 登壇, 2024 年 8月.
