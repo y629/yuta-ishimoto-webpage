@@ -48,7 +48,7 @@ view: 1
 ### 国内研究会発表 (査読なし)
 <!-- これは<span style="color: red; ">赤文字</span>です -->
 1. 中島 蒼太, **<u>石本 優太</u>**, 近藤 将成, Tao Xiao, 亀井 靖高, “大規模言語モデルを用いたSATDの分類体系の自動生成,” 第220回ソフトウェア工学研究発表会, 2025-SE-220(X), pp.X-X, 2025年7月.
-1. 石本 優太, “Repairs and Breaks Prediction for Deep Neural Networks,” 第8回機械学習工学ワークショップ (MLSE夏合宿2025), 2025年7月.
+1. **<u>石本 優太</u>**, “Repairs and Breaks Prediction for Deep Neural Networks,” 第8回機械学習工学ワークショップ (MLSE夏合宿2025), 2025年7月.
 1. **<u>石本 優太</u>**, 近藤 将成, 鵜林 尚靖, 亀井 靖高, 勝部 瞭太, 佐藤 直人, 小川 秀人, “量子プログラムに対するミューテーションに基づく欠陥局所化,” 電子情報通信学会技術報告 (ソフトウェアサイエンス研究会), vol.124, no.429(SS), pp.194-199, 2025年3月.
 1. 植中 雄斗, **<u>石本 優太</u>**, 近藤 将成, 亀井 靖高, “ビデオゲームにおけるバグの自動検出手法の提案と初期評価,” 第219回ソフトウェア工学研究発表会, 2025-SE-219(5), pp.1-8, 2025年3月. 
 1. **<u>石本 優太</u>**, 近藤 将成, 馬 雷, 鵜林 尚靖, 亀井 靖高, “Repairs and Breaks Prediction for Deep Neural Networks,” 第31回ソフトウェア工学の基礎ワークショップ (FOSE 2024), 2024年11月. (ポスター発表) <span style="color: red; "><i class="fa-solid fa-trophy"></i>ポスター・デモ賞</span> [[PDF]](../pdfs/fose2024_poster_ishimoto.pdf)

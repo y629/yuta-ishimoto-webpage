@@ -21,6 +21,8 @@ sections:
     content:
       title: ニュース
       text: |-
+        - [**2025/10**] スイス・Università della Svizzera italiana (USI)のGabriele Bavota教授のもとを訪れ共同研究プロジェクトを推進．
+        - [**2025/09**] カナダ・Queen's UniversityのAhmed E. Hassan教授, Hao Li博士のもとを訪れ共同研究プロジェクトを推進．
         - [**2025/09**] 日本ソフトウェア科学会第40回大会@東海大学品川キャンパスにてトップカンファレンス・トップ論文誌特別講演のセッションで発表．
         - [**2025/07**] MLSE夏合宿 2025@箱根にて既発表論文発表．
         - [**2025/06**] 国際会議FSE 2025@トロンヘイム, ノルウェーにて論文発表 (Journal First Track)．
