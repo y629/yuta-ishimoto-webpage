@@ -11,7 +11,11 @@ view: 1
 
 ---
 
+### 2026
+- [**2026/01**] 博士論文「Debugging AI-enabled and Quantum Software Systems」の公聴会を実施．
+
 ### 2025
+- [**2025/12**] 国際会議SANER 2026 ERA Track に論文採択 (Leveraging Mutation Analysis for LLM-based Repair of Quantum Programs)．
 - [**2025/10**] スイス・Università della Svizzera italiana (USI)のGabriele Bavota教授のもとを訪れ共同研究プロジェクトを推進．
 - [**2025/09**] カナダ・Queen's UniversityのAhmed E. Hassan教授, Hao Li博士のもとを訪れ共同研究プロジェクトを推進．
 - [**2025/09**] 日本ソフトウェア科学会第40回大会@東海大学品川キャンパスにてトップカンファレンス・トップ論文誌特別講演のセッションで発表．
